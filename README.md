@@ -103,8 +103,8 @@ Suggested repository structure:
 Uber-Data-Analysis-Power-BI/
 ├── README.md
 ├── Uber_PBI_Project.pdf
-├── Uber_Dashboard.pbix
-└── screenshots/
+├── Uber.pbix
+└── Screenshots/
     
 ```
 
